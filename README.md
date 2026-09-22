@@ -1,4 +1,4 @@
-# Prompt 14 — Create Dashboard Summary Logic
+# Prompt 14 Create Dashboard Summary Logic
 
 This README documents, step by step, what was done to fulfill the latest prompt:
 
